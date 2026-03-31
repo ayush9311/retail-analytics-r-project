@@ -1,0 +1,10 @@
+name: retail_transaction_analytics_r
+title:
+username: ayushkumarsingh
+account: ayushkumarsingh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16822063
+bundleId:
+url: https://ayushkumarsingh.shinyapps.io/retail_transaction_analytics_r/
+version: 1
